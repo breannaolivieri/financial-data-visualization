@@ -1,6 +1,6 @@
 # Financial Data Visualization Dashboard
 
-an interactive financial data visualization project that analyzes and displays stock data using Python.
+an interactive financial data visualization project that analyzes and displays stock data using HTML.
 
 ## Features
 
